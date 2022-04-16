@@ -148,6 +148,7 @@ function keyboardInput(e) {
   if (e.key === 'Enter' || e.key === '=') evaluate();
   if (e.key === 'Escape') clear();
   if (e.key === 'Backspace') deleteCharacter();
+  document.activeElement.blur()
 }
 
 window.addEventListener('keydown', keyboardInput);
