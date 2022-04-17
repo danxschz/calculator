@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/danxschz/danxschz/main/img/danxschz-logo.png" alt="logo" width="200" height="auto">
-  <h1 style="margin-top: 5px">Calculator</h1>
+  <h1>Calculator</h1>
 
   <p>
   Online calculator with keyboard input support. Built with HTML, CSS and JS
@@ -18,5 +18,5 @@
     </a>
   </p>
 
-  <h4 style="margin: 0"><a href="https://danxschz.github.io/calculator">View Demo</a></h4>
+  <h4><a href="https://danxschz.github.io/calculator">View Demo</a></h4>
 </div>
